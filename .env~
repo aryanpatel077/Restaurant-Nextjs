@@ -4,5 +4,9 @@
 # Prisma supports the native connection string format for PostgreSQL, MySQL, SQLite, SQL Server, MongoDB and CockroachDB.
 # See the documentation for all the connection string options: https://pris.ly/d/connection-strings
 
-DATABASE_URL="postgres://postgres:vy7Shktpdh4ZPAGV@db.wbnygjcvyafbksnvregf.supabase.co:6543/postgres"
+DATABASE_URL="postgres://postgres.condlfilqzybmbpoaoyq:WKsjXcBFCkPUF5wo@aws-0-ap-south-1.pooler.supabase.com:6543/postgres"
+
+
 JWT_SECRET="sifjijfoier9384w498wepfjwo9weo89((#U(*Q@#)))"
+
+<!-- WKsjXcBFCkPUF5wo -->
